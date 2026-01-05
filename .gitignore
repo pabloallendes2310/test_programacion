@@ -2,6 +2,7 @@
 node_modules/
 .pnp
 .pnp.js
+yarn.lock
 
 # Testing
 coverage/
@@ -10,6 +11,8 @@ coverage/
 # Production
 dist/
 build/
+*.log
+*.tsbuildinfo
 
 # Environment
 .env
@@ -39,3 +42,6 @@ frontend/.env.local
 data/raw.*
 data/normalized.*
 !data/data.pdf
+
+# Testing
+coverage/
