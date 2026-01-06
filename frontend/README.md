@@ -58,4 +58,3 @@ Debes usar Axios. Crea `src/services/api.ts` con:
 - La tabla debe ser responsive (scroll horizontal en móviles o cards)
 
 **¡Sigue la guía de instalación de Vuetify 3 y empieza con el login!**
-

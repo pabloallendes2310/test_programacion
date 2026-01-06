@@ -12,4 +12,3 @@ Crear una API REST completa en NestJS que:
 ### 1. Crear Proyecto NestJS
 Sigue la guía oficial: https://docs.nestjs.com/first-steps
 
-
